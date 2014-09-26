@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="sizeBox">32dp</dimen>
+    <dimen name="marginSmall">4dp</dimen>
+    <dimen name="marginNormal">8dp</dimen>
+    <dimen name="sizeNormal">48dp</dimen>
+    <dimen name="padding">4dp</dimen>
+</resources>
