@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Validador</string>
+    <string name="numTarjeta">Númeto de tarjeta:</string>
+    <string name="expira">Expira:</string>
+    <string name="ccv">CCV:</string>
+    <string name="tipoTarjeta">Tipo de tarjeta:</string>
+    <string name="clientePromo">Cliente promocional:</string>
+    <string name="si">SI</string>
+    <string name="no">NO</string>
+    <string name="enviar">Enviar</string>
+    <string name="borrar">Borrar</string>
+    <string name="mensaje">Puedes usar cualquiera de las tarjetas que se muestran a continuación</string>
+    <string name="fecha">MM/AA</string>
+    <string name="numeros">123</string>
+    <string name="cam">CAM</string>
+    <string name="visa">VISA</string>
+    <string name="americanExpress">American Express</string>
+    <string name="masterCard">Master Card</string>
+    <string name="discover">Discover</string>
+	<string-array name="tarjetas">
+        <item>VISA</item>
+        <item>Master Card</item>
+        <item>American Express</item>
+        <item>Discover</item>
+    </string-array>
+</resources>
